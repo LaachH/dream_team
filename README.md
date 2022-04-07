@@ -4,7 +4,13 @@
 ## **Background** 
 
 
-### Building a Twitter dashboard that displays Sentiment and determines strength of correlation between Positive and/or Negative sentiment and Asset Prices and Volume & Volatility. Although twitter has only been around since 2006 there has already been instances where both here and overseas some financial influencers, either due to their role in particular companies or the size of their following on twitter have played a part in impacting shares and other assets.  We believe that we can show some correlations vs   
+### Our old mate Harold, phoned up the other day with some news! He had been fired from his job for stealing stationary and was now out on a limb, looking to start his own investment vehicle.
+He has amassed a whopping $1m saving over the last 5 years thanks to some healthy bonuses and lucky speculative crypto investments.
+He now wants to use this nest-egg to generate some serious returns.
+Market sentiment has always fascinated Harold, so he wants us to focus our research around twitter and the influence that certain key words have on a basket of financial assets. He is also interested in the geographical location of tweets by volume.
+Building a Twitter dashboard that displays Sentiment and determines strength of correlation between Positive and/or Negative sentiment and Asset Prices and Volume & Volatility. Although twitter has only been around since 2006 there has already been instances where both here and overseas some financial influencers, either due to their role in particular companies or the size of their following on twitter have played a part in impacting shares and other assets.  We believe that we can show some correlations vs  He has requested that we compile all this research and its findings into an interactive dashboard that he can play around with himself, and possibly present to outside investors.
+He has selected 16 different products within 4 general sections. He wishes to know which asset responds the most succinctly to twitter initiated sentiment.
+
 
 
 ## Asset Selection 
@@ -33,3 +39,5 @@
 [^2] HVN : (https://thenewdaily.com.au/finance/finance-news/2021/02/26/harvey-norman-jobkeeper/)
 [^3] Musk buys TWTR: (https://www.morningstar.com.au/stocks/article/what-should-investors-make-of-musks-twitter-s/220289)
 [^4] Flair footnote: (https://towardsdatascience.com/sentiment-analysis-for-stock-price-prediction-in-python-bed40c65d178)  [^5] Flair and NLTK research:  (https%3A%2F%2Fdigitalcommons.bard.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1351%26context%3Dsenproj_s2020&clen=2376303&pdffilename=Relating%20Sentiment%20Expressed%20by%20Financial%20Twitter%20Accounts%20and%20Fi.pdf)
+
+
