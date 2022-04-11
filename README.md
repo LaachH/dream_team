@@ -32,8 +32,7 @@ He has selected 16 different products within 4 general sections. He wishes to kn
 
 ## Methodology - Lachlan section 
 ### Reading in the share and commodity data. Index for minute data over a week.  Trouble is that some data trades outside of normal trading hours, not limited to 10 - 4 each weekday like a common share for instance.  Plotting it over time, with time series data.  Do this for the dates where all the assets are traded.  
-**Jim to add any other references and footnotes needed**
-### For our dashboard we are looking to have greatest decline, and greatest uptick for each asset, and to also have greatest trading volumes and then have correlation related to that is this correlation through Flair and NLTK? - also potentially to have dual axis chart with both Price indices line chart over Volume bar chart - jim to develop that with the assets and send code through. - Then change in sentiment with %ge change in asset price....anything else?
+
 ---
 
 [^1] Crown : (https://www.afr.com/companies/games-and-wagering/crown-perth-unsuitable-to-hold-casino-licence-but-allowed-to-stay-open-20220324-p5a7j1#:~:text=The%20royal%20commissioners%20found%20Crown,communications%20with%20the%20gaming%20watchdogs.)
